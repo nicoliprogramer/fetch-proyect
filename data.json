@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "nombre": "Box Premium",
+        "precio": 3240,
+        "img": "../img/producto1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Desayuno Feliz Cumpleaños",
+        "precio": 2790,
+        "img": "../img/producto2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Desayuno Romántico",
+        "precio": 3553,
+        "img": "../img/producto3.jpg"
+    },
+    {
+        "id": 4,
+        "nombre": "Box Desayuno",
+        "precio": 2765,
+        "img": "../img/producto4.jpg"
+    },
+    {
+        "id": 5,
+        "nombre": "Caja Love de Madera",
+        "precio": 3757,
+        "img": "../img/producto5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Caja Cumple de Madera",
+        "precio": 4000,
+        "img": "../img/producto6.jpg"
+    }
+]
