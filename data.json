@@ -1,38 +1,47 @@
 [
     {
         "id": 1,
-        "nombre": "Box Premium",
-        "precio": 3240,
-        "img": "../img/producto1.jpg"
+        "nombre": "Preparativo 1",
+        "img": "../img/factura.jpg"
     },
     {
         "id": 2,
-        "nombre": "Desayuno Feliz Cumpleaños",
-        "precio": 2790,
-        "img": "../img/producto2.jpg"
+        "nombre": "Preparativo 2",
+        "img": "../img/galletas.jpg"
     },
     {
         "id": 3,
-        "nombre": "Desayuno Romántico",
-        "precio": 3553,
-        "img": "../img/producto3.jpg"
+        "nombre": "Preparativo 3",
+        "img": "../img/medialuna.jpg"
     },
     {
         "id": 4,
-        "nombre": "Box Desayuno",
-        "precio": 2765,
-        "img": "../img/producto4.jpg"
+        "nombre": "Preparativo 4",
+        "img": "../img/prep1.jpg"
     },
     {
         "id": 5,
-        "nombre": "Caja Love de Madera",
-        "precio": 3757,
-        "img": "../img/producto5.jpg"
+        "nombre": "Preparativo 5",
+        "img": "../img/prep8.jpg"
     },
     {
         "id": 6,
-        "nombre": "Caja Cumple de Madera",
-        "precio": 4000,
-        "img": "../img/producto6.jpg"
+        "nombre": "Preparativo 6",
+        "img": "../img/prep7.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Preparativo 7",
+        "img": "../img/prep9.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Preparativo 8",
+        "img": "../img/prep5.jpg"
+    },
+    {
+        "id": 6,
+        "nombre": "Preparativo 9",
+        "img": "../img/prep3.jpg"
     }
 ]
